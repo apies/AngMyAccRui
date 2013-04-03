@@ -1,0 +1,11 @@
+<div class="well">
+  <button ng-click='getNextPage()' class="btn btn-primary">Next Page</button>
+  <button ng-click='setOrderProp("description")' class="btn btn-success">Order Alphabetically</button>
+  <button ng-click='setOrderProp("-description")' class="btn btn-success">Order Alphabetically OPPP</button>
+    <ul class="nav nav-pills posts nav-stacked side-nav" >
+        <li ng-repeat="listing in listings | orderBy:orderProp">
+          {{listing.description}} 
+          
+        </li>
+      </ul>
+</div> 

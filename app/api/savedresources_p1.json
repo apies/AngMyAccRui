@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "build": "20130321229p",
+    "errors": []
+  },
+  "saved_resources": [
+    {
+      "id": "51461541f1fae52cb9000002",
+      "member_id": "7003974",
+      "resource_id": "1855142901",
+      "resource_type": "property",
+      "rating": 0,
+      "saved": "true",
+      "created_date": "2013-03-17T19:10:57Z",
+      "updated_date": "2013-03-17T19:10:57Z",
+      "sub_resource_type": "rental",
+      "sub_resource_id": "512605528",
+      "description": "4847 Slauson Ave, Los Angeles, CA 90056"
+    },
+    {
+      "id": "51461517f1fae52cb9000001",
+      "member_id": "7003974",
+      "resource_id": "1335296762",
+      "resource_type": "property",
+      "rating": 0,
+      "saved": "true",
+      "created_date": "2013-03-17T19:10:15Z",
+      "updated_date": "2013-03-17T19:10:15Z",
+      "sub_resource_type": "rental",
+      "sub_resource_id": "557915616",
+      "description": "1710 Orchard Avenue, Los Angeles, CA 90006"
+    },
+    {
+      "id": "5137b562f1fae5c21a00001d",
+      "member_id": "7003974",
+      "resource_id": "2775104387",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-13T17:44:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "518434828",
+      "description": "24000 Testing - Not A Real Listing: 0 Photos Binder, CA 00019"
+    },
+    {
+      "id": "5137b562f1fae5c21a00001c",
+      "member_id": "7003974",
+      "resource_id": "6279356627",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T01:26:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "561259894",
+      "description": "13347 Lake Bryan Dr ORLANDO, FL 32821"
+    },
+    {
+      "id": "5137b562f1fae5c21a00001b",
+      "member_id": "7003974",
+      "resource_id": "6110566881",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T01:27:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "561185222",
+      "description": "11755 Verrazano Dr ORLANDO, FL 32836"
+    },
+    {
+      "id": "5137b562f1fae5c21a00001a",
+      "member_id": "7003974",
+      "resource_id": "6590496581",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T01:27:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "561177394",
+      "description": "150 E Robinson St # 4A-4 ORLANDO, FL 32801"
+    },
+    {
+      "id": "5137b562f1fae5c21a000019",
+      "member_id": "7003974",
+      "resource_id": "5738841522",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T09:51:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "561032018",
+      "description": "9106 Woodbridge Oak Ter ORLANDO, FL 32825"
+    },
+    {
+      "id": "5137b562f1fae5c21a000018",
+      "member_id": "7003974",
+      "resource_id": "5313708715",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T09:52:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "559673794",
+      "description": "19618 Starry St ORLANDO, FL 32833"
+    },
+    {
+      "id": "5137b562f1fae5c21a000017",
+      "member_id": "7003974",
+      "resource_id": "1322800046",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T09:55:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "542353860",
+      "description": "1744 Clearview Rd SANTA BARBARA, CA 93101"
+    },
+    {
+      "id": "5137b562f1fae5c21a000016",
+      "member_id": "7003974",
+      "resource_id": "2990209707",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T09:55:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "546008700",
+      "description": "1715 Gillespie St SANTA BARBARA, CA 93101"
+    },
+    {
+      "id": "5137b562f1fae5c21a000015",
+      "member_id": "7003974",
+      "resource_id": "2890440555",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T09:56:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "545445152",
+      "description": "928 Fellowship Rd SANTA BARBARA, CA 93109"
+    },
+    {
+      "id": "5137b562f1fae5c21a000014",
+      "member_id": "7003974",
+      "resource_id": "1566217636",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T15:17:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "547951160",
+      "description": "188 Sunnyside Av Campbell, CA 95008"
+    }
+  ],
+  "bad_resources": [],
+  "matching_rows": 32,
+  "returned_rows": 10
+}

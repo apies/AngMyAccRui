@@ -1,0 +1,131 @@
+PageThreeFixture = {
+  "meta": {
+    "build": "20130321229p",
+    "errors": []
+  },
+  "saved_resources": [
+    {
+      "id": "5137b562f1fae5c21a00000b",
+      "member_id": "7003974",
+      "resource_id": "1051053796",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T15:22:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "543840492",
+      "description": "1695 Manzanita Avenue Chico, CA 95926"
+    },
+    {
+      "id": "5137b562f1fae5c21a00000a",
+      "member_id": "7003974",
+      "resource_id": "1521544543",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T15:24:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "546842420",
+      "description": "3449 State Highway 32 Chico, CA 95973"
+    },
+    {
+      "id": "5137b562f1fae5c21a000009",
+      "member_id": "7003974",
+      "resource_id": "2757343361",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T15:24:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "546734468",
+      "description": "1996 Modoc Drive Chico, CA 95928"
+    },
+    {
+      "id": "5137b562f1fae5c21a000008",
+      "member_id": "7003974",
+      "resource_id": "1247539594",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T15:24:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "546605112",
+      "description": "12065 Merlin Lane Chico, CA 95928"
+    },
+    {
+      "id": "5137b562f1fae5c21a000007",
+      "member_id": "7003974",
+      "resource_id": "2611758834",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-17T11:03:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "542802352",
+      "description": "520 N Testing Da Binder, CA 00020"
+    },
+    {
+      "id": "5137b562f1fae5c21a000006",
+      "member_id": "7003974",
+      "resource_id": "2952815030",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-24T22:17:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "546693400",
+      "description": "1901 University Av San Jose, CA 95126"
+    },
+    {
+      "id": "5137b562f1fae5c21a000005",
+      "member_id": "7003974",
+      "resource_id": "6214316153",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-26T09:48:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "561488534",
+      "description": "1204 East 50Th Street Savannah, GA 31404"
+    },
+    {
+      "id": "5137b562f1fae5c21a000004",
+      "member_id": "7003974",
+      "resource_id": "6655778076",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-26T09:49:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "561385518",
+      "description": "3 Wymberly Point Road SAVANNAH, GA 31406"
+    },
+    {
+      "id": "5137b562f1fae5c21a000003",
+      "member_id": "7003974",
+      "resource_id": "6281893614",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-26T09:49:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "561285050",
+      "description": "25 Conservation Drive SAVANNAH, GA 31419"
+    },
+    {
+      "id": "5137b562f1fae5c21a000002",
+      "member_id": "7003974",
+      "resource_id": "6660920776",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-26T09:53:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "561479046",
+      "description": "190 Green Island Road Savannah, GA 31411"
+    }
+  ],
+  "bad_resources": [],
+  "matching_rows": 32,
+  "returned_rows": 10
+}

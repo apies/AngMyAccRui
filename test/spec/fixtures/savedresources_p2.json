@@ -1,0 +1,131 @@
+PageTwoFixture = {
+  "meta": {
+    "build": "20130321229p",
+    "errors": []
+  },
+  "saved_resources": [
+    {
+      "id": "5137b562f1fae5c21a000015",
+      "member_id": "7003974",
+      "resource_id": "2890440555",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T09:56:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "545445152",
+      "description": "928 Fellowship Rd SANTA BARBARA, CA 93109"
+    },
+    {
+      "id": "5137b562f1fae5c21a000014",
+      "member_id": "7003974",
+      "resource_id": "1566217636",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T15:17:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "547951160",
+      "description": "188 Sunnyside Av Campbell, CA 95008"
+    },
+    {
+      "id": "5137b562f1fae5c21a000013",
+      "member_id": "7003974",
+      "resource_id": "4500268214",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T15:19:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "547941249",
+      "description": "1839 Fitzwater St PHILADELPHIA, PA 19146"
+    },
+    {
+      "id": "5137b562f1fae5c21a000012",
+      "member_id": "7003974",
+      "resource_id": "3282270075",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T15:20:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "547665685",
+      "description": "220 Lombard St PHILADELPHIA, PA 19147"
+    },
+    {
+      "id": "5137b562f1fae5c21a000011",
+      "member_id": "7003974",
+      "resource_id": "3947037628",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T15:20:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "547751085",
+      "description": "108 Lombard St PHILADELPHIA, PA 19147"
+    },
+    {
+      "id": "5137b562f1fae5c21a000010",
+      "member_id": "7003974",
+      "resource_id": "4521174408",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T15:20:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "547942433",
+      "description": "1843 Fitzwater St PHILADELPHIA, PA 19146"
+    },
+    {
+      "id": "5137b562f1fae5c21a00000f",
+      "member_id": "7003974",
+      "resource_id": "3467021443",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T15:20:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "547215685",
+      "description": "3 N Columbus Blvd #Cn302 PHILADELPHIA, PA 19106"
+    },
+    {
+      "id": "5137b562f1fae5c21a00000e",
+      "member_id": "7003974",
+      "resource_id": "3997175545",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T15:20:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "547370153",
+      "description": "507 Addison Ct PHILADELPHIA, PA 19147"
+    },
+    {
+      "id": "5137b562f1fae5c21a00000d",
+      "member_id": "7003974",
+      "resource_id": "3184385743",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T15:20:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "547410509",
+      "description": "500 S Front St PHILADELPHIA, PA 19147"
+    },
+    {
+      "id": "5137b562f1fae5c21a00000c",
+      "member_id": "7003974",
+      "resource_id": "2947138806",
+      "resource_type": "property",
+      "saved": "true",
+      "created_date": "2012-12-14T15:22:00Z",
+      "updated_date": "2013-03-06T21:30:10Z",
+      "sub_resource_type": "for_sale",
+      "sub_resource_id": "548012876",
+      "description": "1215 Elmer Street Chico, CA 95928"
+    }
+  ],
+  "bad_resources": [],
+  "matching_rows": 32,
+  "returned_rows": 10
+}
